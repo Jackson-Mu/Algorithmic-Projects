@@ -8,27 +8,27 @@ Welcome to my repository showcasing various algorithmic projects implemented in 
 
 ## Project List
 
-### SelectionSortGame
+### 1. SelectionSortGame
 
 **Description:**
 This project implements the Selection Sort algorithm to sort 1980s themed enemy names in Python.
 
-### Detecting Cycle in a Directed Graph by DFS
+### 2. Detecting Cycle in a Directed Graph by DFS
 
 **Description:**
 This project detects cycles in a directed graph using Depth-First Search (DFS) algorithm.
 
-### SelectionSort
+### 3. SelectionSort
 
 **Description:**
 This project implements the Selection Sort algorithm to sort computer file names in Python.
 
-### path
+### 4. path
 
 **Description:**
 This project finds a path in a directed graph using Depth-First Search (DFS).
 
-### Question Answering
+### 5. Question Answering
 
 **Description:**
 This project implements a Greedy Algorithm to answer questions with associated probabilities.
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out at [your_email@example.com](mailto:your_email@example.com).
+For any questions or suggestions, feel free to reach out at [your_email@example.com](mukesjackson02@gmail.com).
