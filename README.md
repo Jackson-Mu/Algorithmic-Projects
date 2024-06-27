@@ -47,7 +47,7 @@ Each project uses specific algorithms as described in their respective sections.
 
 ## File Structure
 
-- `SelectionSortGame.py`: Implements Selection Sort for 1980s themed enemy names.
+- `SelectionSort.py`: Implements Selection Sort for 1980s themed enemy names.
 - `CycleDetectionDFS.py`: Detects cycles in directed graphs using DFS.
 - `SelectionSort.py`: Implements Selection Sort for computer file names.
 - `PathFindingDFS.py`: Finds paths in directed graphs using DFS.
